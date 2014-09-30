@@ -42,6 +42,8 @@ cogat,KeywordMatch,http://www.hcpss.org/academics/testing/,CoGAT Assessment
 ap test,PhraseMatch,http://www.hcpss.org/academics/testing/,Advanced Placement (AP) Tests
 advanced placement,PhraseMatch,http://www.hcpss.org/academics/testing/,Advanced Placement (AP) Tests
 ap exam,PhraseMatch,http://www.hcpss.org/academics/testing/,Advanced Placement (AP) Tests
+msa,KeywordMatch,http://www.hcpss.org/academics/testing/,Maryland State Assessment Information
+semester tests,PhraseMatch,http://www.hcpss.org/academics/testing/,Test Information
 contact,KeywordMatch,http://www.hcpss.org/contact-us/,Contact Us
 contact us,PhraseMatch,http://www.hcpss.org/contact-us/,Contact Us
 contact hcpss,PhraseMatch,http://www.hcpss.org/contact-us/,Contact Us
@@ -71,7 +73,6 @@ teaching jobs,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,T
 vacancies,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
 teacher positions,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
 jobs,KeywordMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
-substitute vacancies,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
 part-time teaching,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
 teacher jobs,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
 teaching jobs,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
@@ -123,3 +124,50 @@ district strategy,PhraseMatch,http://www.hcpss.org/vision/,Vision 2018 Strategic
 strategic plan,PhraseMatch,http://www.hcpss.org/vision/,Vision 2018 Strategic Plan
 emergency card,PhraseMatch,https://epstudentinfo.hcpss.org/UserLogin.aspx?ReturnUrl=%2f,Emergency Procedure Card
 aspen,KeywordMatch,https://hcpss.me/fp/,Family Portal
+contact,KeywordMatch,http://www.hcpss.org/schools/elementary-schools/,Elementary Schools
+contact,KeywordMatch,http://www.hcpss.org/schools/middle-schools/,Middle Schools
+contact,KeywordMatch,http://www.hcpss.org/schools/high-schools/,High Schools
+school administrators,PhraseMatch,http://www.hcpss.org/schools/elementary-schools/,Elementary Schools
+school administrators,PhraseMatch,http://www.hcpss.org/schools/middle-schools/,Middle Schools
+school administrators,PhraseMatch,http://www.hcpss.org/schools/high-schools/,High Schools
+principals,KeywordMatch,http://www.hcpss.org/schools/elementary-schools/,Elementary Schools
+principals,KeywordMatch,http://www.hcpss.org/schools/middle-schools/,Middle Schools
+principals,KeywordMatch,http://www.hcpss.org/schools/high-schools/,High Schools
+jobs,KeywordMatch,http://www.hcpss.org/employment/other-vacancies/substitutes/,Substitute Vacancies
+immunization,KeywordMatch,http://www.hcpss.org/schools/enrollment-and-registration/#immunization,Immunization Requirements
+shot,KeywordMatch,http://www.hcpss.org/schools/enrollment-and-registration/#immunization,Immunization Requirements
+shots,KeywordMatch,http://www.hcpss.org/schools/enrollment-and-registration/#immunization,Immunization Requirements
+vaccines,KeywordMatch,http://www.hcpss.org/schools/enrollment-and-registration/#immunization,Immunization Requirements
+vaccinations,KeywordMatch,http://www.hcpss.org/schools/enrollment-and-registration/#immunization,Immunization Requirements
+vaccination,KeywordMatch,http://www.hcpss.org/schools/enrollment-and-registration/#immunization,Immunization Requirements
+starting school,PhraseMatch,http://www.hcpss.org/schools/enrollment-and-registration/,Enrollment and Registration
+required documents,KeywordMatch,http://www.hcpss.org/schools/enrollment-and-registration/,Enrollment and Registration
+resolution,KeywordMatch,http://www.hcpss.org/board/ombudsman/,Office of the Ombudsman
+resolving,KeywordMatch,http://www.hcpss.org/board/ombudsman/,Office of the Ombudsman
+procurement,KeywordMatch,http://www.hcpss.org/about-us/purchasing/,Purchasing Office
+buying,KeywordMatch,http://www.hcpss.org/about-us/purchasing/,Purchasing Office
+construction projects,http://www.hcpss.org/about-us/purchasing/,Purchasing Office
+new school,PhraseMatch,http://www.hcpss.org/school-planning/,Office of School Planning
+attendance areas,PhraseMatch,http://www.hcpss.org/school-planning/,Office of School Planning
+school directors,PhraseMatch,http://www.hcpss.org/contact-us/administrative-directors/,School Administrative Directors
+school administrative directors,PhraseMatch,http://www.hcpss.org/contact-us/administrative-directors/,School Administrative Directors
+lunch,KeywordMatch,http://www.hcpss.org/food-services/,Food Services
+breakfast,KeywordMatch,http://www.hcpss.org/food-services/,Food Services
+allergens,KeywordMatch,http://www.hcpss.org/food-services/,Food Services
+food,KeywordMatch,http://www.hcpss.org/food-services/,Food Services
+meal,KeywordMatch,http://www.hcpss.org/food-services/,Food Services
+bus,KeywordMatch,http://www.hcpss.org/schools/transportation/,Transportation Services
+tutoring,KeywordMatch,http://www.hcpss.org/schools/bsap/learning-centers/,BSAP Learning Centers
+tutoring,KeywordMatch,http://www.hcpss.org/schools/bsap/saturday-math-academy/,BSAP Saturday Math Academy
+tutoring,KeywordMatch,http://www.hcpss.org/schools/academic-intervention/,Academic Intervention
+academic help,PhraseMatch,http://www.hcpss.org/schools/bsap/learning-centers/,BSAP Learning Centers
+academic help,PhraseMatch,http://www.hcpss.org/schools/bsap/saturday-math-academy/,BSAP Saturday Math Academy
+academic help,PhraseMatch,http://www.hcpss.org/schools/academic-intervention/,Academic Intervention
+
+
+
+
+
+
+
+
