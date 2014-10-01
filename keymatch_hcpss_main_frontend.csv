@@ -146,7 +146,7 @@ resolution,KeywordMatch,http://www.hcpss.org/board/ombudsman/,Office of the Ombu
 resolving,KeywordMatch,http://www.hcpss.org/board/ombudsman/,Office of the Ombudsman
 procurement,KeywordMatch,http://www.hcpss.org/about-us/purchasing/,Purchasing Office
 buying,KeywordMatch,http://www.hcpss.org/about-us/purchasing/,Purchasing Office
-construction projects,http://www.hcpss.org/about-us/purchasing/,Purchasing Office
+construction projects,PhraseMatch,http://www.hcpss.org/about-us/purchasing/,Purchasing Office
 new school,PhraseMatch,http://www.hcpss.org/school-planning/,Office of School Planning
 attendance areas,PhraseMatch,http://www.hcpss.org/school-planning/,Office of School Planning
 school directors,PhraseMatch,http://www.hcpss.org/contact-us/administrative-directors/,School Administrative Directors
@@ -163,11 +163,3 @@ tutoring,KeywordMatch,http://www.hcpss.org/schools/academic-intervention/,Academ
 academic help,PhraseMatch,http://www.hcpss.org/schools/bsap/learning-centers/,BSAP Learning Centers
 academic help,PhraseMatch,http://www.hcpss.org/schools/bsap/saturday-math-academy/,BSAP Saturday Math Academy
 academic help,PhraseMatch,http://www.hcpss.org/schools/academic-intervention/,Academic Intervention
-
-
-
-
-
-
-
-
