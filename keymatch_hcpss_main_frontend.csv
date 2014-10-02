@@ -163,3 +163,18 @@ tutoring,KeywordMatch,http://www.hcpss.org/schools/academic-intervention/,Academ
 academic help,PhraseMatch,http://www.hcpss.org/schools/bsap/learning-centers/,BSAP Learning Centers
 academic help,PhraseMatch,http://www.hcpss.org/schools/bsap/saturday-math-academy/,BSAP Saturday Math Academy
 academic help,PhraseMatch,http://www.hcpss.org/schools/academic-intervention/,Academic Intervention
+board meetings,PhraseMatch,http://www.boarddocs.com/mabe/hcpssmd/Board.nsf/goto?open&id=84JU3E7A1442,Board Meeting Participation
+forum,KeywordMatch,http://www.boarddocs.com/mabe/hcpssmd/Board.nsf/goto?open&id=84JU3E7A1442,Board Meeting Participation
+meeting participation,KeywordMatch,http://www.boarddocs.com/mabe/hcpssmd/Board.nsf/goto?open&id=84JU3E7A1442,Board Meeting Participation
+meeting participation,KeywordMatch,http://www.boarddocs.com/mabe/hcpssmd/Board.nsf/goto?open&id=9HQTDX6B3542,Board of Education Meeting Schedule
+board meetings,PhraseMatch,http://www.boarddocs.com/mabe/hcpssmd/Board.nsf/goto?open&id=9HQTDX6B3542,Board of Education Meeting Schedule
+staff,KeywordMatch,https://mail.hcpss.org/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.hcpss.org%2fowa%2f,Staff Email Login
+email,KeywordMatch,https://mail.hcpss.org/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.hcpss.org%2fowa%2f,Staff Email Login
+outlook,KeywordMatch,https://mail.hcpss.org/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.hcpss.org%2fowa%2f,Staff Email Login
+email login,KeywordMatch,https://mail.hcpss.org/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.hcpss.org%2fowa%2f,Staff Email Login
+ERO,KeywordMatch,http://www.hcpss.org/employees/professional-development/,Professional Development
+student council,PhraseMatch,https://sites.google.com/a/inst.hcpss.me/hcasc/,HCASC - Howard County Association of Student Councils
+student involvement,PhraseMatch,https://sites.google.com/a/inst.hcpss.me/hcasc/,HCASC - Howard County Association of Student Councils
+athletic exams,PhraseMatch,http://www.hcpss.org/athletics/forms-and-guidelines/,Athletic Forms and Guidelines
+athletic tests,PhraseMatch,http://www.hcpss.org/athletics/forms-and-guidelines/,Athletic Forms and Guidelines
+athletic broadcasting,PhraseMatch,http://www.hcpss.org/athletics/forms-and-guidelines/,Athletic Forms and Guidelines
