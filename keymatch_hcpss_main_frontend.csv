@@ -34,7 +34,7 @@ G/T,PhraseMatch,http://www.hcpss.org/academics/gifted-and-talented/,Gifted and T
 advanced curriculum,PhraseMatch,http://www.hcpss.org/academics/gifted-and-talented/,Gifted and Talented Program
 extra-curricular,PhraseMatch,http://www.hcpss.org/academics/gifted-and-talented/middle-school-programs/curriculum-extensions/,Academic Curriculum Extensions
 extended education,PhraseMatch,http://www.hcpss.org/academics/gifted-and-talented/middle-school-programs/curriculum-extensions/,Academic Curriculum Extensions
-parcc,KeywordMatch,http://www.hcpss.org/academics/testing/,Maryland PARCC Assessment
+parcc,KeywordMatch,http://www.hcpss.org/academics/testing/parcc/,Maryland PARCC Assessment
 map,KeywordMatch,http://www.hcpss.org/academics/testing/map-information/,Measures of Academic Progress (MAP) Assessment
 sat,KeywordMatch,http://www.hcpss.org/academics/testing/,SAT Exam
 psat,KeywordMatch,http://www.hcpss.org/academics/testing/,PSAT Exam
