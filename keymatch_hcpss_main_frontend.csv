@@ -87,7 +87,7 @@ principal contact information,PhraseMatch,http://www.hcpss.org/f/employees/staff
 school administration,PhraseMatch,http://www.hcpss.org/f/employees/staffdirectory.pdf,Staff Directory
 upcoming events,PhraseMatch,http://www.hcpss.org/news/community-event/,Community Events
 community programs,PhraseMatch,http://www.hcpss.org/news/community-event/,Community Events
-upcoming community events,PhraseMatch,http://www.hcpss.org/news/community-event/,Community Events 
+upcoming community events,PhraseMatch,http://www.hcpss.org/news/community-event/,Community Events
 local events,PhraseMatch,http://www.hcpss.org/news/community-event/,Community Events
 upcoming activities,PhraseMatch,http://www.hcpss.org/news/community-event/,Community Events
 school events,PhraseMatch,http://www.hcpss.org/news/community-event/,Community Events
@@ -182,3 +182,4 @@ summer school,PhraseMatch,http://www.hcpss.org/summer-programs/,Summer School an
 how to help your child at home,PhraseMatch,http://www.hcpss.org/grade/,How to Help your Child at Home Guides
 homework help,PhraseMatch,http://www.hcpss.org/grade/,How to Help your Child at Home Guides
 homework,KeywordMatch,http://www.hcpss.org/grade/,How to Help your Child at Home Guides
+gallup,KeywordMatch,http://www.hcpss.org/about-us/engagement/,Engagement
