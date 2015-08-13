@@ -123,7 +123,6 @@ strategy,PhraseMatch,http://www.hcpss.org/vision/,Vision 2018 Strategic Plan
 district strategy,PhraseMatch,http://www.hcpss.org/vision/,Vision 2018 Strategic Plan
 strategic plan,PhraseMatch,http://www.hcpss.org/vision/,Vision 2018 Strategic Plan
 emergency card,PhraseMatch,https://epstudentinfo.hcpss.org/UserLogin.aspx?ReturnUrl=%2f,Emergency Procedure Card
-aspen,KeywordMatch,https://hcpss.me/fp/,Family Portal
 contact,KeywordMatch,http://www.hcpss.org/schools/elementary-schools/,Elementary Schools
 contact,KeywordMatch,http://www.hcpss.org/schools/middle-schools/,Middle Schools
 contact,KeywordMatch,http://www.hcpss.org/schools/high-schools/,High Schools
