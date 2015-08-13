@@ -187,3 +187,8 @@ home schooling,PhraseMatch,http://www.hcpss.org/parents/home-school/,Home School
 third party,PhraseMatch,http://www.hcpss.org/third-party/,Third-Party Educational Tools
 third-party,PhraseMatch,http://www.hcpss.org/third-party/,Third-Party Educational Tools
 educational tools,PhraseMatch,http://www.hcpss.org/third-party/,Third-Party Educational Tools
+hcpss connect,PhraseMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
+family file,PhraseMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
+synergy,KeywordMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
+canvas,KeywordMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
+family portal,PhraseMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
