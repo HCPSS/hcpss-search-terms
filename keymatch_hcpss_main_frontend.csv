@@ -183,3 +183,8 @@ how to help your child at home,PhraseMatch,http://www.hcpss.org/grade/,How to He
 homework help,PhraseMatch,http://www.hcpss.org/grade/,How to Help your Child at Home Guides
 homework,KeywordMatch,http://www.hcpss.org/grade/,How to Help your Child at Home Guides
 gallup,KeywordMatch,http://www.hcpss.org/about-us/engagement/,Engagement
+home school,PhraseMatch,http://www.hcpss.org/parents/home-school/,Home Schooling
+home schooling,PhraseMatch,http://www.hcpss.org/parents/home-school/,Home Schooling
+third party,PhraseMatch,http://www.hcpss.org/third-party/,Third-Party Educational Tools
+third-party,PhraseMatch,http://www.hcpss.org/third-party/,Third-Party Educational Tools
+educational tools,PhraseMatch,http://www.hcpss.org/third-party/,Third-Party Educational Tools
