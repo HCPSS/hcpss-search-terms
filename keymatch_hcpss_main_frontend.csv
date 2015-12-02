@@ -196,3 +196,6 @@ payments,KeywordMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments 
 vendor payments,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 payees,KeywordMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 conferences,KeywordMatch,http://www.hcpss.org/connect/,Register for Parent Teacher Conferences
+mold,KeywordMatch,http://www.hcpss.org/parents/environmental-committee/, Indoor Environmental Quality Advisory Committee
+environmental,KeywordMatch,http://www.hcpss.org/parents/environmental-committee/, Indoor Environmental Quality Advisory Committee
+indoor environmental,PhraseMatch,http://www.hcpss.org/parents/environmental-committee/, Indoor Environmental Quality Advisory Committee
