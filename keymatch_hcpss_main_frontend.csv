@@ -194,6 +194,8 @@ canvas,KeywordMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
 family portal,PhraseMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
 payment,KeywordMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 vendor payment,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
+funding transparency,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
+funding accountability,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 payees,KeywordMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 conferences,KeywordMatch,http://www.hcpss.org/connect/,Register for Parent Teacher Conferences
 mold,KeywordMatch,http://www.hcpss.org/parents/environmental-committee/, Indoor Environmental Quality Advisory Committee
