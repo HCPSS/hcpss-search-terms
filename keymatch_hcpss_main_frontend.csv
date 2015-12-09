@@ -193,7 +193,9 @@ synergy,KeywordMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
 canvas,KeywordMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
 family portal,PhraseMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
 payment,KeywordMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
+payments,KeywordMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 vendor payment,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
+vendor payments,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 funding transparency,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 funding accountability,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 payees,KeywordMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
