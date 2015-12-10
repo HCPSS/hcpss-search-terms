@@ -203,3 +203,5 @@ conferences,KeywordMatch,http://www.hcpss.org/connect/,Register for Parent Teach
 mold,KeywordMatch,http://www.hcpss.org/parents/environmental-committee/, Indoor Environmental Quality Advisory Committee
 environmental,KeywordMatch,http://www.hcpss.org/parents/environmental-committee/, Indoor Environmental Quality Advisory Committee
 indoor environmental,PhraseMatch,http://www.hcpss.org/parents/environmental-committee/, Indoor Environmental Quality Advisory Committee
+cpd,KeywordMatch,http://www.hcpss.org/employees/professional-development/, Professional Development - Courses for Employees and Non-Employees
+professional development,PhraseMatch,http://www.hcpss.org/employees/professional-development/, Professional Development - Courses for Employees and Non-Employees
