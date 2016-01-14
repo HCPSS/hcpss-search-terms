@@ -196,7 +196,10 @@ payment,KeywordMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments -
 payments,KeywordMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 vendor payment,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 vendor payments,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
+fund,KeywordMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
+fund transparency,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 funding transparency,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
+fund accountability,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 funding accountability,PhraseMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 payees,KeywordMatch,http://www.hcpss.org/f/vendors/index.html,Vendor Payments - Funding Accountability and Transparency
 conferences,KeywordMatch,http://www.hcpss.org/connect/,Register for Parent Teacher Conferences
