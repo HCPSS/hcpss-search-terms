@@ -63,20 +63,20 @@ HCAA,KeywordMatch,http://www.hcpss.org/employment/agreements-and-salaries/,Negot
 ESP,KeywordMatch,http://www.hcpss.org/employment/agreements-and-salaries/,Negotiated Agreements and Salary Tables
 howard county administrators association,PhraseMatch,http://www.hcpss.org/employment/agreements-and-salaries/,Negotiated Agreements and Salary Tables
 education support professionals,PhraseMatch,http://www.hcpss.org/employment/agreements-and-salaries/,Negotiated Agreements and Salary Tables
-open coaching positions,PhraseMatch,http://www.hcpss.org/employment/other-vacancies/coaching/,Coaching Vacancies
-coaching jobs,PhraseMatch,http://www.hcpss.org/employment/other-vacancies/coaching/,Coaching Vacancies
-home care jobs,PhraseMatch,http://www.hcpss.org/employment/other-vacancies/home-and-hospital/,Home and Hospital Teaching Jobs
-summer school openings,PhraseMatch,http://www.hcpss.org/employment/other-vacancies/summer/,Summer School Jobs
-summer school jobs,PhraseMatch,http://www.hcpss.org/employment/other-vacancies/summer/,Summer School Jobs
-teacher jobs,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
-teaching jobs,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
-vacancies,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
-teacher positions,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
-jobs,KeywordMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
-part-time teaching,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
-teacher jobs,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
-teaching jobs,PhraseMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
-jobs,KeywordMatch,http://www.hcpss.org/employment/teacher-recruitment/,Teacher Recruitment
+open coaching positions,PhraseMatch,http://www.hcpss.org/employment/coaching-vacancies/,Coaching Vacancies
+coaching jobs,PhraseMatch,http://www.hcpss.org/employment/coaching-vacancies/,Coaching Vacancies
+home care jobs,PhraseMatch,http://www.hcpss.org/employment/hht-positions/,Home and Hospital Teaching Jobs
+summer school openings,PhraseMatch,http://www.hcpss.org/employment/,Summer School Jobs
+summer school jobs,PhraseMatch,http://www.hcpss.org/employment/,Summer School Jobs
+teacher jobs,PhraseMatch,http://www.hcpss.org/employment/teacher-careers/,Teacher Recruitment
+teaching jobs,PhraseMatch,http://www.hcpss.org/employment/teacher-careers/,Teacher Recruitment
+vacancies,PhraseMatch,http://www.hcpss.org/employment/teacher-careers/,Teacher Recruitment
+teacher positions,PhraseMatch,http://www.hcpss.org/employment/teacher-careers/,Teacher Recruitment
+jobs,KeywordMatch,http://www.hcpss.org/employment/teacher-careers/,Teacher Recruitment
+part-time teaching,PhraseMatch,http://www.hcpss.org/employment/teacher-careers/,Teacher Recruitment
+teacher jobs,PhraseMatch,http://www.hcpss.org/employment/teacher-careers/,Teacher Recruitment
+teaching jobs,PhraseMatch,http://www.hcpss.org/employment/teacher-careers/,Teacher Recruitment
+jobs,KeywordMatch,http://www.hcpss.org/employment/teacher-careers/,Teacher Recruitment
 staff contacts,PhraseMatch,http://www.hcpss.org/f/employees/staffdirectory.pdf,Staff Directory
 telephone directory,PhraseMatch,http://www.hcpss.org/f/employees/staffdirectory.pdf,Staff Directory
 school administrators,PhraseMatch,http://www.hcpss.org/f/employees/staffdirectory.pdf,Staff Directory
@@ -132,7 +132,7 @@ school administrators,PhraseMatch,http://www.hcpss.org/schools/high-schools/,Hig
 principals,KeywordMatch,http://www.hcpss.org/schools/elementary-schools/,Elementary Schools
 principals,KeywordMatch,http://www.hcpss.org/schools/middle-schools/,Middle Schools
 principals,KeywordMatch,http://www.hcpss.org/schools/high-schools/,High Schools
-jobs,KeywordMatch,http://www.hcpss.org/employment/other-vacancies/substitutes/,Substitute Vacancies
+jobs,KeywordMatch,http://www.hcpss.org/employment/substitute-positions/,Substitute Vacancies
 immunization,KeywordMatch,http://www.hcpss.org/schools/enrollment-and-registration/#immunization,Immunization Requirements
 shot,KeywordMatch,http://www.hcpss.org/schools/enrollment-and-registration/#immunization,Immunization Requirements
 shots,KeywordMatch,http://www.hcpss.org/schools/enrollment-and-registration/#immunization,Immunization Requirements
