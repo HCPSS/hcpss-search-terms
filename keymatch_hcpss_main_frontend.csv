@@ -223,3 +223,4 @@ School and Bus Locator, PhraseMatch, https://hcpss2.securesites.net/SchoolLocato
 attend, KeywordMatch, https://hcpss2.securesites.net/SchoolLocator/index.jsp, HCPSS School and Bus Locator
 bus, KeywordMatch, https://hcpss2.securesites.net/SchoolLocator/index.jsp, HCPSS School and Bus Locator
 locator, KeywordMatch, https://hcpss2.securesites.net/SchoolLocator/index.jsp, HCPSS School and Bus Locator
+diversity, KeytwordMatch, http://www.hcpss.org/diversity-recruitment/, Diversity Recruitment
