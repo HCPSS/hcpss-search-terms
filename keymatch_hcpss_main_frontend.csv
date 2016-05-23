@@ -223,4 +223,10 @@ School and Bus Locator, PhraseMatch, https://hcpss2.securesites.net/SchoolLocato
 attend, KeywordMatch, https://hcpss2.securesites.net/SchoolLocator/index.jsp, HCPSS School and Bus Locator
 bus, KeywordMatch, https://hcpss2.securesites.net/SchoolLocator/index.jsp, HCPSS School and Bus Locator
 locator, KeywordMatch, https://hcpss2.securesites.net/SchoolLocator/index.jsp, HCPSS School and Bus Locator
-diversity, KeytwordMatch, http://www.hcpss.org/diversity-recruitment/, Diversity Recruitment
+diversity,KeywordMatch, http://www.hcpss.org/diversity-recruitment/, Diversity Recruitment
+504,KeywordMatch,http://www.hcpss.org/academics/section-504/, Section 504 of the Rehabilitation Act of 1973
+Section 504,PhraseMatch,http://www.hcpss.org/academics/section-504/, Section 504 of the Rehabilitation Act of 1973
+504 Plan,PhraseMatch,http://www.hcpss.org/academics/section-504/, Section 504 of the Rehabilitation Act of 1973
+Due Process,PhraseMatch,http://www.hcpss.org/academics/section-504/due-process-rights/, Due Process – Section 504 Plans
+Grievance Procedures,http://www.hcpss.org/academics/section-504/grievance-procedures/, Grievance Procedures – Section 504 Plans
+Section 504 Hearing,http://www.hcpss.org/academics/section-504/grievance-procedures/, Grievance Procedures – Section 504 Plans
