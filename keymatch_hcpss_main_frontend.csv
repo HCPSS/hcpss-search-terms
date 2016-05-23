@@ -229,6 +229,6 @@ Section 504,PhraseMatch,http://www.hcpss.org/academics/section-504/, Section 504
 504 Plan,PhraseMatch,http://www.hcpss.org/academics/section-504/, Section 504 of the Rehabilitation Act of 1973
 Due Process,PhraseMatch,http://www.hcpss.org/academics/section-504/due-process-rights/, Due Process – Section 504 Plans
 Grievance Procedures,PhraseMatch,http://www.hcpss.org/academics/section-504/grievance-procedures/, Grievance Procedures – Section 504 Plans
-Section 504 Hearing,http://www.hcpss.org/academics/section-504/grievance-procedures/, Grievance Procedures – Section 504 Plans
+Section 504 Hearing,PhraseMatch,http://www.hcpss.org/academics/section-504/grievance-procedures/, Grievance Procedures – Section 504 Plans
 commencement, KeywordMatch, http://www.hcpss.org/schools/commencement/, High School Commencement
 graduation, KeywordMatch, http://www.hcpss.org/schools/commencement/, High School Commencement
