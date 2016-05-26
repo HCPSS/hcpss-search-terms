@@ -184,9 +184,10 @@ homework,KeywordMatch,http://www.hcpss.org/grade/,How to Help your Child at Home
 gallup,KeywordMatch,http://www.hcpss.org/about-us/engagement/,Engagement
 home school,PhraseMatch,http://www.hcpss.org/parents/home-school/,Home Schooling
 home schooling,PhraseMatch,http://www.hcpss.org/parents/home-school/,Home Schooling
-third party,PhraseMatch,http://www.hcpss.org/third-party/,Third-Party Educational Tools
-third-party,PhraseMatch,http://www.hcpss.org/third-party/,Third-Party Educational Tools
-educational tools,PhraseMatch,http://www.hcpss.org/third-party/,Third-Party Educational Tools
+third party,PhraseMatch,http://www.hcpss.org/digital-tools/,Digital Tools
+third-party,PhraseMatch,http://www.hcpss.org/digital-tools/,Digital Tools
+educational tools,PhraseMatch,http://www.hcpss.org/digital-tools/,Digital Tools
+digital tools,PhraseMatch,http://www.hcpss.org/digital-tools/,Digital Tools
 hcpss connect,PhraseMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
 family file,PhraseMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
 synergy,KeywordMatch,http://www.hcpss.org/connect/,HCPSS Connect and Family File
